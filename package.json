@@ -1,0 +1,12 @@
+{
+  "name": "be.prismify.scorm",
+  "version": "1.0.0",
+  "displayName": "Prismify - SCORM Support",
+  "description": "Tools to add SCORM 1.2 support to project",
+  "unity": "6000.0",
+  "dependencies": {},
+  "author": {
+    "name": "Prismify"
+  },
+  "_fingerprint": "bd08764d6c556daec82e29ef3bd9406a883988fa"
+}
