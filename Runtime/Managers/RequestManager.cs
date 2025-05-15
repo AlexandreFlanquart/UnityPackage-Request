@@ -4,7 +4,7 @@ using System;
 using UnityEngine.Events;
 using MyUnityPackage.Toolkit;
 
-namespace Prismify.RequestKit
+namespace MyUnityPackage.RequestKit
 {
     public enum RequestMethod
     {

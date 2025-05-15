@@ -1,5 +1,5 @@
 {
-    "name": "Prismify.RequestKit",
+    "name": "MyUnityPackage.RequestKit",
     "rootNamespace": "",
     "references": [
         "MyUnityPackage.Toolkit"

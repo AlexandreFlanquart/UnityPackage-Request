@@ -5,7 +5,7 @@ using UnityEngine;
 using UnityEngine.Events;
 using UnityEngine.Networking;
 
-namespace Prismify.RequestKit
+namespace MyUnityPackage.RequestKit
 {
     public class Request : MonoBehaviour
     {

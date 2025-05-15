@@ -4,7 +4,7 @@ using UnityEngine.Networking;
 using System.Threading.Tasks;
 using System.Runtime.InteropServices;
 
-namespace Prismify.RequestKit
+namespace MyUnityPackage.RequestKit
 {
     public class RequestSender
     {

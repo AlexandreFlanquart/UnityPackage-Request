@@ -2,7 +2,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 
-namespace Prismify.RequestKit
+namespace MyUnityPackage.RequestKit
 {
     public enum EnvironmentDeployment
     {

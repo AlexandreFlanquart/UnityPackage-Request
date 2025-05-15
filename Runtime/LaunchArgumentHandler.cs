@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using UnityEngine.Events;
 using MyUnityPackage.Toolkit;
 
-namespace Prismify.RequestKit
+namespace MyUnityPackage.RequestKit
 {
     public class LaunchArgumentHandler : MonoBehaviour
     {
