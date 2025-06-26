@@ -1,5 +1,5 @@
-# MYUNITYPACKAGE-SCORM-UNITY
-Package for Unity, add SCORM 1.2 support in WebGL projects.
+# MYUNITYPACKAGE-Request-UNITY
+Package for Unity.
 
 <br>
 
